@@ -1,18 +1,21 @@
-# Voxyn Labs
+![image](https://github.com/user-attachments/assets/bbef97c6-e7c1-4feb-8e73-97c1bcef3fb9)
+<hr>
 
-Voxyn Labs is a development group that makes varying projects, usually in Python or JS.
-
-More information will be here later.
+## About Us
+Voxyn Labs is a development group that makes varying projects, usually in Python
+or JS. Founded by turtledevv, we focus on user safety and creating innovative and
+accessible tools for everyone. We make sure that everyone on our development 
+team has fun, and everyone has an equal say in everything. No bosses, just a whole
+bunch of computer nerds.
 
 ## Links
-👉 [discord.gg/uVucpfE7tm](https://discord.gg/uVucpfE7tm)
-<!--
+👉  https://voxynlabs.github.io/<br>
+👉  https://github.com/VoxynLabs<br>
+👉  https://discord.gg/voxynlabs
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Team
+[turtledevv](https://github.com/coolboy67yt) - Lead Developer & Founder<br>
+[CaringChicken](https://github.com/ItsCaringChicken) - Developer<br>
+[Grandalfwise](https://github.com/grandalfwise) - Developer<br>
+[TheFunRayy](https://github.com/thefunrayy) - Social Media & Discord Manager<br>
+smackable - Developer 
