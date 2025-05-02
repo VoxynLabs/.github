@@ -18,5 +18,5 @@ bunch of computer nerds.
 [CaringChicken](https://github.com/ItsCaringChicken) - Developer<br>
 [Grandalfwise](https://github.com/grandalfwise) - Developer<br>
 [TheFunRayy](https://github.com/thefunrayy) - Social Media & Discord Manager<br>
-smackable - Developer<br.
+smackable - Developer<br>
 owen - Developer
