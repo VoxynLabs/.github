@@ -14,8 +14,9 @@ bunch of computer nerds.
 👉  https://discord.gg/voxynlabs
 
 ## Our Team
-[turtledevv](https://github.com/coolboy67yt) - Lead Developer & Founder<br>
+[turtledevv](https://github.com/coolboy67yt) - Lead Developer, Founder & Owner<br>
 [Grandalfwise](https://github.com/grandalfwise) - Developer<br>
 [TheFunRayy](https://github.com/thefunrayy) - Social Media & Discord Manager<br>
 [aguywithapassion](https://github.com/aguywithapassion) - Developer<br>
 [maybeizen](https://github.com/maybeizen) - Developer<br>
+[owen](https://github.com/owenqwenstarsky) - Developer & Owner
