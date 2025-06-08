@@ -19,3 +19,4 @@ bunch of computer nerds.
 [Grandalfwise](https://github.com/grandalfwise) - Developer<br>
 [TheFunRayy](https://github.com/thefunrayy) - Social Media & Discord Manager<br>
 [aguywithapassion](https://github.com/aguywithapassion) - Developer<br>
+[maybeizen](https://github.com/maybeizen) - Developer<br>
