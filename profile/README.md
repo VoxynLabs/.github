@@ -8,13 +8,5 @@ accessible tools for everyone. We make sure that everyone on our development
 team has fun, and everyone has an equal say in everything. No bosses, just a whole
 bunch of computer nerds.
 
-## Links
-👉  https://voxynlabs.github.io/<br>
-👉  https://github.com/VoxynLabs<br>
-👉  https://discord.gg/voxynlabs
-
-## Our Team
-[turtledevv](https://github.com/coolboy67yt) - Lead Developer & Founder<br>
-[Grandalfwise](https://github.com/grandalfwise) - Developer<br>
-[TheFunRayy](https://github.com/thefunrayy) - Social Media & Discord Manager<br>
-[aguywithapassion](https://github.com/aguywithapassion) - Developer<br>
+## What happened?
+After many months of no updates and lack of motivation, we finally shut down.
